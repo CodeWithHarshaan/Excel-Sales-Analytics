@@ -46,27 +46,27 @@
 ## Technical & Analytical Skills  
 
 ### **Data Processing & Modeling:**  
-✔ Proficiency in **ETL (Extract, Transform, Load) methodology** for data integration.  
-✔ Ability to generate and manage a **date table using Power Query**.  
-✔ Expertise in **deriving fiscal months and quarters** for accurate reporting.  
-✔ Establishing **data model relationships** using Power Pivot.  
-✔ Integrating **supplementary datasets** into an existing data model.  
-✔ Using **DAX (Data Analysis Expressions)** to create calculated columns and measures.  
+- Proficiency in **ETL (Extract, Transform, Load) methodology** for data integration.  
+- Ability to generate and manage a **date table using Power Query**.  
+- Expertise in **deriving fiscal months and quarters** for accurate reporting.  
+- Establishing **data model relationships** using Power Pivot.  
+- Integrating **supplementary datasets** into an existing data model.  
+- Using **DAX (Data Analysis Expressions)** to create calculated columns and measures.  
 
 ### **Data Visualization & Reporting:**  
-✔ Building **interactive dashboards and reports** with user-centric design.  
-✔ Optimizing **Power BI and Excel reports** for performance and clarity.  
-✔ Implementing **data validation techniques** to ensure accuracy.  
+- Building **interactive dashboards and reports** with user-centric design.  
+- Optimizing **Power BI and Excel reports** for performance and clarity.  
+- Implementing **data validation techniques** to ensure accuracy.  
 
 ---
 
 ##  Soft Skills & Business Acumen  
 
-✔ Strong understanding of **Sales & Financial Reporting** methodologies.  
-✔ Ability to **design user-friendly reports** that simplify complex data insights.  
-✔ Optimization of **report generation efficiency** through fine-tuned modeling techniques.  
-✔ Strategic thinking in **analyzing financial & market data for business growth**.  
-✔ Ability to **collaborate with cross-functional teams** to leverage insights for decision-making.  
+- Strong understanding of **Sales & Financial Reporting** methodologies.  
+- Ability to **design user-friendly reports** that simplify complex data insights.  
+- Optimization of **report generation efficiency** through fine-tuned modeling techniques.  
+- Strategic thinking in **analyzing financial & market data for business growth**.  
+- Ability to **collaborate with cross-functional teams** to leverage insights for decision-making.  
 
 ---
 
